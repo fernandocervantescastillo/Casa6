@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casa6", "Casa6\Casa6.csproj", "{61259389-0659-4199-88F2-59CBE15E62DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61259389-0659-4199-88F2-59CBE15E62DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61259389-0659-4199-88F2-59CBE15E62DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61259389-0659-4199-88F2-59CBE15E62DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61259389-0659-4199-88F2-59CBE15E62DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E5F1142-0694-4046-BBDA-CC987C82AB7E}
+	EndGlobalSection
+EndGlobal
